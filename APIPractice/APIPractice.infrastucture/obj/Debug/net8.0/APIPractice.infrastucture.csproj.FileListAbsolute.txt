@@ -1,0 +1,14 @@
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\bin\Debug\net8.0\APIPractice.infrastucture.deps.json
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\bin\Debug\net8.0\APIPractice.infrastucture.runtimeconfig.json
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\bin\Debug\net8.0\APIPractice.infrastucture.dll
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\bin\Debug\net8.0\APIPractice.infrastucture.pdb
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.csproj.AssemblyReference.cache
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.AssemblyInfoInputs.cache
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.AssemblyInfo.cs
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.dll
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\refint\APIPractice.infrastucture.dll
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.pdb
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\APIPractice.infrastucture.genruntimeconfig.cache
+C:\Users\s225041308\source\repos\APIPractice\APIPractice.infrastucture\obj\Debug\net8.0\ref\APIPractice.infrastucture.dll
